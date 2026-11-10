@@ -1,4 +1,4 @@
-# Jenkins Java Demo — CI/CD Automation Pipeline ☕🚀
+# Jenkins Java Demo CI/CD Automation Pipeline ☕🚀
 
 A clean, production-ready Java application designed for Jenkins Continuous Integration and Continuous Deployment (CI/CD) pipelines with automated build triggers and SCM polling.
 
